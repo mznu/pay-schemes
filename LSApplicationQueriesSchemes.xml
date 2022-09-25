@@ -2,6 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-
+	<string>ansimclickipcollect</string>
+	<string>ansimclickscard</string>
+	<string>citicardappkr</string>
+	<string>citimobileapp</string>
+	<string>citispay</string>
+	<string>cloudpay</string>
+	<string>com.wooricard.wcard</string>
+	<string>hanawalletmembers</string>
+	<string>hdcardappcardansimclick</string>
+	<string>ispmobile</string>
+	<string>kb-acp</string>
+	<string>ktauthexternalcall</string>
+	<string>liivbank</string>
+	<string>lotteappcard</string>
+	<string>lottesmartpay</string>
+	<string>lpayapp</string>
+	<string>mpocket.online.ansimclick</string>
+	<string>newsmartpib</string>
+	<string>nhallonepayansimclick</string>
+	<string>nhappcardansimclick</string>
+	<string>nonghyupcardansimclick</string>
+	<string>payco</string>
+	<string>samsungpay</string>
+	<string>scardcertiapp</string>
+	<string>shinhan-sr-ansimclick</string>
+	<string>shinsegaeeasypayment</string>
+	<string>smhyundaiansimclick</string>
+	<string>smshinhanansimclick</string>
+	<string>supertoss</string>
+	<string>tauthlink</string>
+	<string>tswansimclick</string>
+	<string>upluscorporation</string>
+	<string>vguardstart</string>
 </array>
 </plist>
