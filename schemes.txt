@@ -1,0 +1,33 @@
+supertoss 토스페이
+kb-acp 국민카드
+liivbank 국민카드
+nhappcardansimclick 농협카드
+nhallonepayansimclick 농협카드
+nonghyupcardansimclick 농협카드
+lottesmartpay 롯데카드
+lotteappcard 롯데카드
+mpocket.online.ansimclick 삼성카드
+ansimclickscard 삼성카드
+tswansimclick 삼성카드
+ansimclickipcollect 삼성카드
+vguardstart 삼성카드
+samsungpay 삼성카드
+scardcertiapp 삼성카드
+shinhan-sr-ansimclick 신한카드
+smshinhanansimclick 신한카드
+com.wooricard.wcard 우리카드
+newsmartpib 우리카드
+citispay 씨티카드
+citicardappkr 씨티카드
+citimobileapp 씨티카드
+cloudpay 하나카드
+hanawalletmembers 하나카드
+hdcardappcardansimclick 현대카드
+smhyundaiansimclick 현대카드
+shinsegaeeasypayment SSG PAY
+payco PAYCO
+lpayapp L.pay
+ispmobile ISP Mobile
+tauthlink 모바일 PASS
+ktauthexternalcall 모바일 PASS
+upluscorporation 모바일 PASS
