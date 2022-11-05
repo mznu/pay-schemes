@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. Copy contents of LSApplicationQueriesSchemes.xml
+1. Copy contents of `LSApplicationQueriesSchemes.xml`
 
 ```shell
 $ cat LSApplicationQueriesSchemes.xml | pbcopy
@@ -13,10 +13,13 @@ $ cat LSApplicationQueriesSchemes.xml | pbcopy
 
 ## Contribute
 
-1. Fork this repo
-2. Open "schemes.txt" and append scheme & short description, with a space between them
+1. Open `schemes.txt`
+2. Append scheme & name (and short description if needed) with a space between them
 
 ```
 ...
 ooopayapp OOOPay
 ```
+
+3. Pull Request
+4. After PR is merged, `LSApplicationQueriesSchemes.xml` will be updated automatically
